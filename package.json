@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/PATHAKABHISHEK/BocsAssignment/issues"
   },
-  "homepage": "https://github.com/PATHAKABHISHEK/BocsAssignment#readme"
+  "homepage": "https://github.com/PATHAKABHISHEK/BocsAssignment#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
