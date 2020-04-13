@@ -1,5 +1,3 @@
-const readline = require("readline");
-
 /**
  * Finding all permutations of particular string
  */
